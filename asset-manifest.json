@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.086fa14d.css",
-    "main.js": "/static/js/main.7df7e725.js",
+    "main.js": "/static/js/main.af0089f1.js",
     "static/js/787.681848be.chunk.js": "/static/js/787.681848be.chunk.js",
     "static/media/DesignBg.png": "/static/media/DesignBg.72609705e7cc05a457e7.png",
     "static/media/Zara.png": "/static/media/Zara.af899c5c37dd7286ea55.png",
@@ -14,6 +14,7 @@
     "static/media/Ball3.png": "/static/media/Ball3.92de12c56c0ee5c0c730.png",
     "static/media/SvelteTailwind.png": "/static/media/SvelteTailwind.9cecc283dce2229c2c9b.png",
     "static/media/DevelopObject.png": "/static/media/DevelopObject.7ad89e3b1ed8dcf43160.png",
+    "static/media/unity.png": "/static/media/unity.c8d7d96f56591fdb9220.png",
     "static/media/HoverDevelopBg.png": "/static/media/HoverDevelopBg.3a6ac2ec6947112f7666.png",
     "static/media/HoverDesignBg.png": "/static/media/HoverDesignBg.3d56caa5fc5a1b446fcd.png",
     "static/media/miyoung.png": "/static/media/miyoung.8d95c2ba590a88b211b7.png",
@@ -42,11 +43,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.086fa14d.css.map": "/static/css/main.086fa14d.css.map",
-    "main.7df7e725.js.map": "/static/js/main.7df7e725.js.map",
+    "main.af0089f1.js.map": "/static/js/main.af0089f1.js.map",
     "787.681848be.chunk.js.map": "/static/js/787.681848be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.086fa14d.css",
-    "static/js/main.7df7e725.js"
+    "static/js/main.af0089f1.js"
   ]
 }
